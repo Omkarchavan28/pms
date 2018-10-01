@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538312213 source:c:\users\dell\desktop\project\patitent managment\pms0.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
