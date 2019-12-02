@@ -1,1 +1,2 @@
-# pms0.3
+# PMS
+Patient Management System made in c 
